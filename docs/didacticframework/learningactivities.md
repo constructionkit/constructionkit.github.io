@@ -16,9 +16,13 @@ parent: Didactic Framework
 ---
 
 ## Introduction to InfoVis
-
-![introinfovis](../../../assets/images/Construction-Kit-Templates_1-Introduction-to-InfoVis.jpg 'Introduction to InfoVis activity')
+[![introinfovisimg]][introinfovispdf]
 
 ## Team Building
 
-![teambuilding](../../../assets/images/Construction-Kit-Templates_2-Team-Building.jpg 'Introduction to InfoVis activity')
+[![teambuildingimg]][teambuildingpdf]
+
+[introinfovispdf]: ../../../assets/pdf/Construction-Kit-Templates_1-Introduction-to-InfoVis.pdf
+[introinfovisimg]: ../../../assets/images/Construction-Kit-Templates_1-Introduction-to-InfoVis.jpg "Introduction to InfoVis activity"
+[teambuildingpdf]: ../../../assets/pdf/Construction-Kit-Templates_2-Team-Building.pdf
+[teambuildingimg]: ../../../assets/images/Construction-Kit-Templates_2-Team-Building.jpg "Introduction to InfoVis activity"
