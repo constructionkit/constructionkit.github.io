@@ -8,6 +8,6 @@ permalink: docs/didacticframework
 
 # Didactic Framework for Designing and Analyzing Data Visualization Activities
 
-![courseplan](../../assets/images/Construction-Kit-Templates_Didactic-structure-chart.jpg 'Course plan including data visualization and learning activities')
+This section introduces you to the didactic framework conceived for use with the construction kit structure and elements. It is also adaptable to other approaches for data visualization activities.
+{: .fs-6 .fw-300 }
 
-TBA
