@@ -28,7 +28,7 @@ You can download single material as PDF or visit our public [Miro board](https:/
 
 ## Introduction to InfoVis
 
-![infovisimg]
+[![infovisimg]][infovispdf]
 
 ## Ice breaker and experiences
 
