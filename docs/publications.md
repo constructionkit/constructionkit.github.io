@@ -6,6 +6,8 @@ nav_order: 4
 
 # Related Publications
 
+Mandy Keck, Elena Stoll, Dietrich Kammer: *A Didactic Framework for Analyzing Learning Activities to Design InfoVis Courses*. IEEE Computer Graphics and Applications, vol. 41, no. 6, pp. 80-90, 1 Nov.-Dec. 2021, doi: 10.1109/MCG.2021.3115416.
+
 Mandy Keck, Rainer Groh, Zana Vosough: *A Didactic Methodology for Crafting Information Visualizations*. 2020 IEEE Visualization Conference (VIS), Salt Lake City, UT, USA, 2020.
 
 Mandy Keck: *Visuelle Exploration multidimensionaler Informationsräume - Ein Interface-Baukasten für die Produktsuche*. Technische Universität Dresden, 2019, ISBN: 978-3-95908-168-9.
